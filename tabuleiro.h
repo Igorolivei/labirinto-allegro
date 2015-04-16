@@ -6,7 +6,8 @@ class Tabuleiro {
 public:
   int largura, altura;
 
-  Mapa(int largura, int altura);
+  Tabuleiro(int largura, int altura);
+  void DesenharTabuleiro();
 };
 
 #endif
