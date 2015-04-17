@@ -1,0 +1,8 @@
+- Verificar bordas da janela
+- Verificar se há movimentos possíveis
+- Caso não haja movimentos possíveis, exibir mensagem de erro
+- Exibir quadro com informações de comandos
+- Opção de reiniciar
+- Deixar "rastro" menor
+- Mensagem de jogo ganho
+- Ao terminar, opção de reiniciar sem sair do jogo
